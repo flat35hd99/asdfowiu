@@ -1,5 +1,5 @@
 #!/bin/bash
-prefix=$TEMPLATE_PROJECT_PREFIX
+prefix=$/data/group1/z44550r/zkl
 
 module purge
 source $prefix/util/load_curp

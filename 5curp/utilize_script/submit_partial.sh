@@ -1,6 +1,6 @@
 #!/bin/bash
 
-prefix=$TEMPLATE_PROJECT_PREFIX
+prefix=$/data/group1/z44550r/zkl
 
 if [ -z "$2" ];then echo "check arguments";exit 1; fi
 

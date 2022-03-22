@@ -1,6 +1,6 @@
 #!/bin/bash
 
-prefix=$TEMPLATE_PROJECT_PREFIX
+prefix=$/data/group1/z44550r/zkl
 run_start=$1
 run_end=$2
 

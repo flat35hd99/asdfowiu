@@ -10,7 +10,7 @@ run=${specify_job_id:0:2}
 smp=${specify_job_id:2:1}
 
 # Set appropriate environment
-prefix=$TEMPLATE_PROJECT_PREFIX
+prefix=$/data/group1/z44550r/zkl
 
 module purge
 source $prefix/util/load_curp

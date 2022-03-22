@@ -7,7 +7,7 @@
 #PBS -l select=1:ncpus=8:mpiprocs=1:ompthreads=1:jobtype=gpu:ngpus=1
 #PBS -l walltime=4:00:00
 
-prefix=$TEMPLATE_PROJECT_PREFIX
+prefix=$/data/group1/z44550r/zkl
 
 # hostname of Flow Type 2 calculation nodes is cx{number}
 if [[ "$(hostname)" =~ cx ]];then
